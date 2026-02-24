@@ -7,6 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/DanielAraqueStudios?style=social)](https://github.com/DanielAraqueStudios)
 [![GitHub stars](https://img.shields.io/github/stars/DanielAraqueStudios?style=social)](https://github.com/DanielAraqueStudios)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5E00?style=flat&logo=google-chrome&logoColor=white)](https://danielaraquestudios.github.io/my_CV/)
+![Profile Views](https://komarev.com/ghpvc/?username=DanielAraqueStudios&color=00B2FF&style=flat-square)
 
 </div>
 
@@ -142,30 +143,60 @@ End-to-end IoT system for healthcare device monitoring with real-time anomaly de
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielAraqueStudios&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielAraqueStudios&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAraqueStudios&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAraqueStudios&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielAraqueStudios&theme=tokyonight&hide_border=true)
 
 </div>
 
-### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielAraqueStudios&theme=tokyo-night&hide_border=true)
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielAraqueStudios&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=DanielAraqueStudios&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📊 This Week's Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
 ## 🏆 Technical Metrics
 
+<div align="center">
+
 | Metric | Value |
 |--------|-------|
-| Professional Experience | **6+ years** |
-| GitHub Contributions (Last Year) | **782+** |
-| Public Repositories | **111** |
-| Production Systems Delivered | **10+** |
-| Client Projects Completed | **20+** |
-| Test Coverage (Key Projects) | **90%+** |
-| Desktop Apps Deployed | **10+** |
+| 💼 Professional Experience | **6+ years** |
+| 📊 GitHub Contributions (Last Year) | ![GitHub Contributions](https://img.shields.io/badge/dynamic/json?color=00B2FF&label=Contributions&query=$.contributions&url=https://github-contributions-api.jogruber.de/v4/DanielAraqueStudios?y=last) |
+| 📦 Public Repositories | ![Repos](https://img.shields.io/badge/dynamic/json?color=00B2FF&label=Repos&query=$.public_repos&url=https://api.github.com/users/DanielAraqueStudios) |
+| 🚀 Production Systems Delivered | **10+** |
+| 👥 Client Projects Completed | **20+** |
+| ✅ Test Coverage (Key Projects) | **90%+** |
+| 💻 Desktop Apps Deployed | **10+** |
+| ⭐ Total Stars | ![Stars](https://img.shields.io/github/stars/DanielAraqueStudios?style=flat&color=00B2FF) |
+| 🍴 Total Forks | ![Forks](https://img.shields.io/badge/dynamic/json?color=00B2FF&label=Forks&query=$.forks&url=https://api.github.com/users/DanielAraqueStudios/repos) |
+
+</div>
 
 ---
 
@@ -206,6 +237,7 @@ MinTIC & Universidad Pontificia Bolivariana | 800 hours | December 2021
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5E00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://danielaraquestudios.github.io/my_CV/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:est.daniel.garciaa@unimilitar.edu.co)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielAraqueStudios)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielaraque)
 
 </div>
 
@@ -219,6 +251,8 @@ MinTIC & Universidad Pontificia Bolivariana | 800 hours | December 2021
 
 *Building scalable systems with sustainable architecture*
 
-![Visitor Count](https://profile-counter.glitch.me/DanielAraqueStudios/count.svg)
+---
+
+**📅 Last Updated:** ![Last Commit](https://img.shields.io/github/last-commit/DanielAraqueStudios/DanielAraqueStudios?style=flat&color=00B2FF)
 
 </div>
