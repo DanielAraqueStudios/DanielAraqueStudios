@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00B2FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Software+Architect;B2B+Platform+Specialist;Insurance+Tech+%7C+IoT+%7C+Cloud)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00B2FF&center=true&vCenter=true&width=700&lines=Senior+Software+Lead+Architect;Engineering+Team+Lead;B2B+Platform+Specialist;Marketplace+%7C+Insurance+Tech+%7C+IoT+%7C+Cloud)
 
 [![GitHub followers](https://img.shields.io/github/followers/DanielAraqueStudios?style=social)](https://github.com/DanielAraqueStudios)
 [![GitHub stars](https://img.shields.io/github/stars/DanielAraqueStudios?style=social)](https://github.com/DanielAraqueStudios)
@@ -13,13 +13,14 @@
 
 ## 🚀 About Me
 
-**6+ years** building production-grade B2B platforms specializing in **insurance tech**, **IoT infrastructure**, and **cloud-native solutions**. I design scalable, well-documented systems with sustainable architecture—not quick fixes.
+**6+ years** building production-grade B2B platforms specializing in **marketplace platforms**, **insurance tech**, **IoT infrastructure**, and **cloud-native solutions**. I now lead and manage an engineering team, owning architecture, security review, and delivery. I design scalable, well-documented systems with sustainable architecture—not quick fixes.
 
 - 🏗️ **Architecture-first mindset** with ADRs and modular design
+- 👥 **Leading and managing a technical team** across microservices, frontend, and analytics infrastructure
 - 📊 **10+ production systems** delivered with 90%+ test coverage
 - 🔧 **20+ client projects** across healthcare, insurance, manufacturing, retail
 - 🌾 **8,176 sensors** managed in IoT infrastructure (8 distributed sites)
-- 📄 **50,000+ records** processed daily with 100% data integrity
+- 📄 **50,000+ records** processed with 100% data integrity
 - 🌍 **Bogota, Colombia** | Open to remote work
 - 🎓 **Mechatronics Engineering** @ Universidad Militar Nueva Granada (exp. 2027)
 - 🗣️ **Languages:** Spanish (Native) | English (C1 Advanced)
@@ -28,27 +29,30 @@
 
 ## 💼 Current Role
 
-**Full Stack Developer** @ Unión Agencia de Seguros *(Jan 2025 - Present)*
+**Senior Software Lead Architect** @ Reserve Study Institute *(Mar 2026 - Present, Florida USA, Remote)*
 
-Building insurance automation platforms:
-- 📄 Document automation system (PyQt6 + PDF generation)
-- 🔄 Data reconciliation platform (50K+ records)
-- 📊 Production dashboard for business intelligence
-- 🔗 DIAN API integration for tax validation
+Leading and managing the team behind **CAMVendors**, a commercial property vendor marketplace, plus its own analytics data warehouse:
+- 🧩 Microservices backend (NestJS) + Angular frontend
+- 🔁 Vendor deduplication engine with conflict-review API
+- 💳 Stripe payment race-condition fix (atomic guards + DB uniqueness)
+- 🧠 Two-lane vendor classification with pgvector + async LLM review
+- 🛡️ Architecture and security review (IDOR, API throttling, concurrency)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Backend & APIs**
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Core:** FastAPI • Pydantic • SQLAlchemy • Pandas • Express.js
+**Core:** NestJS • FastAPI • Prisma • Pydantic • SQLAlchemy • Pandas • Express.js • RabbitMQ • Stripe
 
 ### **Architecture & Design**
+- Microservices and event-driven messaging
 - Domain-driven design (DDD)
 - Multi-tier systems (Edge + Cloud + Database)
 - API-first architecture
@@ -58,30 +62,53 @@ Building insurance automation platforms:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 
-**Skills:** Partitioning • Triggers • Materialized Views • ETL Pipelines • Time-series optimization
+**Skills:** pgvector semantic search • Partitioning • Triggers • Materialized Views • ETL Pipelines • Data Warehousing • Time-series optimization
 
 ### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-**Tools:** CloudFormation • IoT Core • Kinesis • Lambda • LocalStack • CI/CD pipelines
+**Tools:** Terraform • CloudFormation • IoT Core • Kinesis • Lambda • LocalStack • CI/CD pipelines
 
 ### **Frontend & Desktop**
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PyQt](https://img.shields.io/badge/-PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
 
-**Skills:** React • TypeScript • PyQt6 GUI • ReportLab • PyInstaller
+**Skills:** Angular • React • TypeScript • PyQt6 GUI • ReportLab • PyInstaller
 
 ### **Security & Quality**
+- Application security review (IDOR, rate limiting, concurrency)
 - X.509 certificate management (mTLS)
 - TLS 1.3 encryption
 - Type safety with mypy
 - 90%+ test coverage (pytest)
 
+### **Leadership**
+- Team management and technical direction
+- Code review and quality assurance
+- Technical standards definition
+- Mentoring and stakeholder collaboration
+
 ---
 
 ## 🎯 Featured Projects
+
+### 🏢 CAMVendors Ecosystem
+**Vendor Marketplace + Analytics Data Warehouse** | Reserve Study Institute
+
+Leading the team building the core operational platform and the analytics warehouse feeding it real-time intelligence.
+
+- Vendor deduplication engine (detection + conflict-review API)
+- Transactional email system across 5 microservices via RabbitMQ
+- Multi-modal vendor import: CSV/Excel, templates, manual entry, email extraction
+- Warehouse ingesting FIPS geographic and UNIFORMAT II taxonomy data
+
+**Tech:** NestJS • Angular • PostgreSQL • Prisma • RabbitMQ • Stripe • pgvector • AWS • Terraform
+
+---
 
 ### 🔄 Conciliator Softseguros Celer
 **Insurance Data Reconciliation Platform** | Production System
@@ -173,61 +200,6 @@ End-to-end IoT system for healthcare device monitoring with real-time anomaly de
 
 ---
 
-## 📊 This Week's Development Breakdown
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.59%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 2.5 MB Used in GitHub's Storage 
- > 
-> 🏆 235 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 119 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                177 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-🌆 Daytime                383 commits         █████████░░░░░░░░░░░░░░░░   37.70 % 
-🌃 Evening                363 commits         █████████░░░░░░░░░░░░░░░░   35.73 % 
-🌙 Night                  93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   182 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Tuesday                  213 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Wednesday                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Thursday                 130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Friday                   138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Saturday                 147 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Sunday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 26/03/2026 01:23:49 UTC
-<!--END_SECTION:waka-->
-
----
-
 ## 🏆 Technical Metrics
 
 <div align="center">
@@ -250,8 +222,16 @@ No Activity Tracked This Week
 
 ## 💼 Professional Experience
 
+### Senior Software Lead Architect @ Reserve Study Institute
+*March 2026 – Present | Florida, USA (Remote)*
+
+- Lead and manage the engineering team; direct architecture, code reviews, and technical decisions
+- CAMVendors: vendor dedup engine, transactional email system, Stripe race-condition fix
+- Analytics data warehouse (FIPS + UNIFORMAT II) exposed via REST APIs
+- Own architecture and security review; led remediation of IDOR, unthrottled paid APIs, concurrency bugs
+
 ### Full Stack Developer @ Unión Agencia de Seguros
-*January 2025 – Present | Bogota, Colombia*
+*January 2025 – March 2026 | Medellín, Colombia*
 
 - Insurance Document Automation System (PyQt6 + PDF generation)
 - Conciliator Softseguros Celer (50,000+ records processed)
@@ -295,12 +275,12 @@ MinTIC & Universidad Pontificia Bolivariana | 800 hours | December 2021
 
 ### 💡 Open to
 
-**Remote Work** | **B2B Platform Projects** | **Technical Consulting** | **Software Architecture**
+**Remote Work** | **B2B Platform Projects** | **Technical Consulting** | **Software Architecture** | **Engineering Leadership**
 
 *Building scalable systems with sustainable architecture*
 
 ---
 
-**📅 Last Updated:** ![Last Commit](https://img.shields.io/github/last-commit/DanielAraqueStudios/DanielAraqueStudios?style=flat&color=00B2FF)
+**📅 Last Updated:** ![Last Commit](https://img.shields.io/github/last-commit/DanielAraqueStudios/my_CV?style=flat&color=00B2FF)
 
 </div>
